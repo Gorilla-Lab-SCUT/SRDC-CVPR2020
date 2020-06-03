@@ -1,6 +1,5 @@
 import argparse
 
-
 def opts():
     parser = argparse.ArgumentParser(description='SRDC', formatter_class=argparse.ArgumentDefaultsHelpFormatter)
     # datasets
