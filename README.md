@@ -15,44 +15,47 @@ Office31
 |  |_ back_pack
 |     |_ <im-1-name>.jpg
 |     |_ ...
-|     |_ <im-N-name>.jpg
 |  |_ bike
 |     |_ <im-1-name>.jpg
 |     |_ ...
-|     |_ <im-N-name>.jpg
 |  |_ ... (omit 28 classes)
 |  |_ trash_can
 |     |_ <im-1-name>.jpg
 |     |_ ...
-|     |_ <im-N-name>.jpg
+|_ amazon_half
+|  |_ back_pack
+|     |_ <im-1-name>.jpg
+|     |_ ...
+|  |_ bike
+|     |_ <im-1-name>.jpg
+|     |_ ...
+|  |_ ... (omit 28 classes)
+|  |_ trash_can
+|     |_ <im-1-name>.jpg
+|     |_ ...
+|_ amazon_half2
+|  |_ back_pack
+|     |_ <im-1-name>.jpg
+|     |_ ...
+|  |_ bike
+|     |_ <im-1-name>.jpg
+|     |_ ...
+|  |_ ... (omit 28 classes)
+|  |_ trash_can
+|     |_ <im-1-name>.jpg
+|     |_ ...
 |_ dslr
 |  |_ back_pack
 |     |_ <im-1-name>.jpg
 |     |_ ...
-|     |_ <im-N-name>.jpg
 |  |_ bike
 |     |_ <im-1-name>.jpg
 |     |_ ...
-|     |_ <im-N-name>.jpg
 |  |_ ... (omit 28 classes)
 |  |_ trash_can
 |     |_ <im-1-name>.jpg
 |     |_ ...
-|     |_ <im-N-name>.jpg
-|_ webcam
-   |_ back_pack
-      |_ <im-1-name>.jpg
-      |_ ...
-      |_ <im-N-name>.jpg
-   |_ bike
-      |_ <im-1-name>.jpg
-      |_ ...
-      |_ <im-N-name>.jpg
-   |_ ... (omit 28 classes)
-   |_ trash_can
-      |_ <im-1-name>.jpg
-      |_ ...
-      |_ <im-N-name>.jpg
+|_ ...
 ```
 # Training
 ## [Office-31](https://drive.google.com/file/d/0B4IapRTv9pJ1WGZVd1VDMmhwdlE/view)
