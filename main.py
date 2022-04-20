@@ -210,7 +210,6 @@ def main():
             if test_acc > best_test_prec1:
                 best_test_prec1 = test_acc
                 log.write('\n                                                                                 best test acc till now: %3f' % best_test_prec1)
-            ipdb.set_trace()
             is_cond_best = ((prec1 == best_prec1) and (test_acc > cond_best_test_prec1))
             if is_cond_best:
                 cond_best_test_prec1 = test_acc
